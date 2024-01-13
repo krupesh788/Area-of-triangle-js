@@ -1,3 +1,4 @@
 # area-of-triangle-js
  
-![Triangle Area output](https://github.com/krupesh788/area-of-triangle-js/assets/71176180/e9729f16-47aa-429e-9d7a-eb6743e75a9a)
+
+![TriangleAreaoutput](https://github.com/krupesh788/Area-of-triangle-js/assets/71176180/d9d24b8c-f4b4-47c4-8ae6-c3c38325b6bf)
